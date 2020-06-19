@@ -2,12 +2,7 @@
 
 Removed basic div tags through out html.
 
-Replaced with the follow semantic tags:
- `<p>Header</p>`
- `<p>Article</p>`
- `<p>Section</p>`
- `<p>Aside</p>`
- `<p>Footer</p>`
+Replaced with the follow semantic tags: Header, Article, Section, Aside, and Footer.
   
  Updated css to reflect the semantic tag changes.
  
